@@ -1,6 +1,6 @@
 # Cara ou coroa
 
-[app_flutter.mp4](../app_flutter.mp4)
+https://github.com/user-attachments/assets/c98d040e-91e7-4839-a673-5103f042331b
 
 Esse é um projeto de um simples jogo em flutter feito durante a 
 disciplina de desenvolvimento mobile do curso de Análise e desenvolvimento de
