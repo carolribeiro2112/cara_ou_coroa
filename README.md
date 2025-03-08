@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/c98d040e-91e7-4839-a673-5103f042331b
 
 Esse é um projeto de um simples jogo em flutter feito durante a 
 disciplina de desenvolvimento mobile do curso de Análise e desenvolvimento de
-sistemas da faculdade impacta de tecnoligia.
+sistemas da faculdade impacta de tecnologia.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
